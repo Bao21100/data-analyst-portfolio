@@ -56,3 +56,7 @@ Hi, I'm **Hoàng Gia Bảo** – a passionate Data Analyst. This portfolio showc
 ## 📫 Contact
 - 📧 Email: giabao.project@email.com
 - 🌐 LinkedIn: [https://www.linkedin.com/in/bao-hoang-598432334/]
+[Uploading SHP_Live2_1_26-05.csv…]()
+
+![image](https://github.com/user-attachments/assets/978051c2-69c6-4fe3-9e66-52087e2c67a7)
+
